@@ -16,6 +16,9 @@
   <a href="https://www.instagram.com/dsa.with.uttam/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://www.instagram.com/uttamchaudhary484/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 </div>
@@ -172,6 +175,9 @@ I'm always interested in connecting with developers, learning new technologies, 
   </a>
   <a href="https://github.com/uttamchaudhary322-prog">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/uttamchaudhary484/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
