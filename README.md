@@ -141,6 +141,27 @@ A collection of frontend recreations inspired by existing websites and digital e
 
 ---
 
+## 🌍 Open Source Contributions
+
+### 1. Penthera — First Merged Contribution
+
+Contributed to [Penthera](https://github.com/danoszz/penthera),
+an open-source security reporting project.
+
+**Issue:** [#230 — An empty duration prints ", " in the Markdown report](https://github.com/danoszz/penthera/issues/230)
+
+**My contribution:**
+- Fixed the missing-duration fallback in Markdown reports.
+- Added a regression test to verify the expected output.
+- Added the required changelog entry.
+- Addressed maintainer review feedback.
+
+**Pull Request:** [#239 — Show dash for missing duration](https://github.com/danoszz/penthera/pull/239)
+
+**Status:** ✅ Merged
+
+---
+
 ## 📚 Currently Learning
 
 - Improving React architecture and component development.
