@@ -42,6 +42,16 @@ I'm continuously improving my development skills through practical projects, exp
 
 ---
 
+## 🌐 Community Involvement
+
+### Google Developer Groups on Campus (GDG on Campus)
+**KNIT Sultanpur — Web Developer**
+
+- Member of the campus developer community.
+- Involved in the campus developer ecosystem and technical initiatives.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend Development
